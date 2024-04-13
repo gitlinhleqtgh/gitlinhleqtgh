@@ -6,15 +6,7 @@
 - 🤔 Knowledge many areas of programming like Web Development and server-side programming. 
 - ⚡ Hobbies: Football, Joging, Badminton, Games, Reading.
 
-### Contact with me
-<p align='left'>
-<a href="https://www.linkedin.com/in/linh-l%C3%AA-b99170268/" target="_blank">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
-</a> 
-<a href="https://www.facebook.com/lingle98er/" target="_blank">
- <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
-</a> 
-</p>
+<hr/>
 
 ### Programing Languages & Frameworks
 <p>
@@ -44,3 +36,7 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" /></code>
 </p>
+<hr/>
+<div align="center">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
