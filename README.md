@@ -3,7 +3,7 @@
 - 🔭 I’m a **Software Engineer**.
 - 🌱 Full stack developer and IT professional with over 3 years of experience.
 - 📫 Have experiences with **Ruby on Rails**, **Reactjs** and another **JS framework**.
-- 🤔 Knowledge many areas of programming like Web Development and server-side programming. 
+- 🤔 Knowledge many areas of programming like Web Development and full stack development. 
 - ⚡ Hobbies: Football, Joging, Badminton, Games, Reading.
 
 <hr/>
